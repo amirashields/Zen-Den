@@ -1,11 +1,11 @@
 Zen Den: A guided breathing prototype designed to cultivate calm through code.
-Overview: Zen Den is an interactive mindfulness tool built in **Processing** that visualises rhythmic breathing through animation.  
+Overview: Zen Den is an interactive mindfulness tool built in Processing that visualises rhythmic breathing through animation.  
 It invites users to slow down, focus, and reflect, demonstrating how code can shape emotional and embodied experiences.  
 A single circle expands on the inhale, pauses on hold, and contracts on exhale, mirroring natural breathing cycles.  
 The project reflects my exploration of creative coding, user experience, and reflective practice throughout this semester.
 
 Features  
-- Smooth looping animation with three distinct phases: *Inhale*, *Hold*, *Exhale*  
+- Smooth looping animation with three distinct phases: Inhale, Hold, Exhale  
 - natural, lifelike rhythm using   
 - real-time personalisation for each breathing phase  
 - (Future) Custom colour palettes to reflect different moods or energy states  
@@ -47,9 +47,9 @@ Together, these components form a meditative cycle that’s both algorithmic and
 
 
 Theoretical Framework: Zen Den draws on insights from:
-- Resnick (2017) — Learning through tinkering and playful experimentation.
-- Norman (1998) — Intuitive design that minimises cognitive load.
-- Schön (1992) — Reflection in-action, where learning occurs through doing.
+- Resnick (2017): Learning through tinkering and playful experimentation.
+- Norman (1998): Intuitive design that minimises cognitive load.
+- Schön (1992): Reflection in-action, where learning occurs through doing.
 These theories informed my approach, treating code as both a technical tool and a reflective medium for creative, mindful interaction.
 
 License
