@@ -16,8 +16,6 @@ Technologies Used
 - Built-in functions: `millis()`, `lerp()`, `bezierPoint()`  
 
 
----
-
 Getting Started: Installation  
 Open ZenDen.pde in Processing.
 Press Run ▶ to start the sketch.
